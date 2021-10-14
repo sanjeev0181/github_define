@@ -1,0 +1,10 @@
+What is the Branching?
+Branching is used in version control and Software management to maintain stability while isolated changes are made to code.
+
+git branch master
+
+how to change old branching to new branching 
+git branch -m demo demo1
+
+how to delete?
+git branch -d demo1
